@@ -2,7 +2,7 @@
 Auto installation for Lenovo IdeaPad L340 Network Drivers and Touchpad drivers
 <br>
 <b>Tested on</b>
-<pre>How to get this dummy ass dot away, (i know programming but its not gone :( )</pre>
+<pre>How to get this dummy ass dot away, (i know programming but its not gone ) :( plus sorry for this ugly repo i just had to do it fast af for myself, but stuck here designing it incase someone wants to use it</pre>
 <ul>
     <li><Kali Rolling 2019.04/li>
     <li>Ubuntu 18.04 and 19.04</li>
