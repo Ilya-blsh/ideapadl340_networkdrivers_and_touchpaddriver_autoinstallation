@@ -8,7 +8,7 @@ Auto installation for Lenovo IdeaPad L340 Network Drivers and Touchpad drivers
     <li>Debian 8</li>
     <li>Debian 9</li>
 </ul>
-<hr><br>
+    <hr><br><b>Installation process</b><br>
 All you gotta do it
 
 <ul>
@@ -16,4 +16,4 @@ All you gotta do it
 <li> cd ideapadl340_networkdrivers_and_touchpaddriver_autoinstallation </li>
 <li> sudo chmod 777 * </li>
 <li> sudo bash install.sh </li>
-</ul>
+</ul><br><br><br><br>
