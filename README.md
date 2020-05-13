@@ -2,7 +2,7 @@
 Auto installation for Lenovo IdeaPad L340 Network Drivers and Touchpad drivers
 <br>
 <b>Tested on</b>
-
+<pre></pre>
 <ul>
     <li><Kali Rolling 2019.04/li>
     <li>Ubuntu 18.04 and 19.04</li>
