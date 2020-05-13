@@ -17,4 +17,4 @@ All you gotta do it
 <li> cd ideapadl340_networkdrivers_and_touchpaddriver_autoinstallation </li><br>
 <li> sudo chmod 777 * </li><br>
 <li> sudo bash install.sh </li>
-</ul><br><br><br><br>
+</ul><br><br>
